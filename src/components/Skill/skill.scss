@@ -1,0 +1,25 @@
+.skill {
+  padding-left: 28px;
+  padding-bottom: 20px;
+}
+
+.rating {
+  padding-top: 10px;
+  display: flex;
+  gap: 5px;
+
+  &__up {
+    border: 0.5px solid #59a9b5;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    background-color: #59a9b5;
+  }
+
+  &__down {
+    border: 0.5px solid #59a9b5;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+  }
+}
