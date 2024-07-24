@@ -25,7 +25,7 @@ function App() {
             <li
               className='list__contact list__contact--city'
             >
-              Dnipro
+              Kyiv
             </li>
           </a>
           <a
@@ -104,7 +104,7 @@ function App() {
           column={2}
         />
         <div className='page__text'>
-          <p>Age: 29</p>
+          <p>Age: 30</p>
           <p>
             Aim: to get a position as a programmer and further development.
           </p>
@@ -120,23 +120,17 @@ function App() {
             <strong>ASSISTANT DIRECTOR</strong>
           </p>
           <p>
-            The work is related to insurance in Israel. I am an intermediary between call
-            centers in Ukraine that sell the services of an insurance agency and the
-            insurance agency itself.
+            The work is related to insurance in Israel. 
           </p>
           <p>
             My responsibilities:
             <ul className='page__list'>
               <li>
                 Control of the correct work of the two parties - insurance agents and
-                operators
+                sellers
               </li>
               <li>
                 Calculation of current statistics and final results for the month
-              </li>
-              <li>
-                Formation and maintenance of a database of phone numbers, as well as
-                timely provision of the call center with them
               </li>
             </ul>
           </p>
